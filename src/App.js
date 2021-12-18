@@ -1,24 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import { Container, TextWrapper } from "./styles/App.styled";
+import { Main, Display } from "./styles/global.styled";
+import StatsImageContainer from "./components/StatsImageContainer/StatsImageContainer";
+import TextContainer from "./components/TextContainer/TextContainer";
+import Stats from "./components/Stats/Stats";
+import { InsightWrapper } from "./styles/TextContainer.styled";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Main>
+      <Container>
+        <StatsImageContainer />
+        <Display>
+          <TextWrapper>
+            <TextContainer />
+          </TextWrapper>
+          <InsightWrapper>
+            <Stats />
+          </InsightWrapper>
+        </Display>
+      </Container>
+    </Main>
   );
 }
 

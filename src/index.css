@@ -16,8 +16,18 @@ body {
   margin: auto;
 }
 
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: white
+}
+.attribution a {
+  text-decoration: none;
+  color: yellowgreen;
+}
+
 @media (min-width: 64em) {
-  body{
+  body {
     max-width: 1440px;
   }
 }

@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repository](https://github.com/skyv26/stats-preview-component)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://skystats.netlify.app/)
 
 
 ## Available Scripts

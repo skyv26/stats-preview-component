@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./src/assests/screenshot.png)
+![]()
 
 
 ### Links
@@ -116,7 +116,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src=".png" alt="logo" width="140"  height="auto" />
+  <img src="./src/assests/screenshot.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>README Template</b></h3>

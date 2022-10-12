@@ -138,13 +138,16 @@ Example command:
 
 To run the project, execute the following command:
 
-<!--
 Example command:
 
 ```sh
-  rails server
+  yarn start
 ```
---->
+OR 
+
+```sh
+  npm start
+```
 
 ### Run tests
 

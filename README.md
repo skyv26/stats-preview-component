@@ -119,7 +119,7 @@ After you're finished please remove all the comments and instructions!
   <img src="./src/assests/screenshot.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>README Template</b></h3>
+  <h3><b>Stats Preview Card Component</b></h3>
 
 </div>
 
@@ -149,11 +149,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Stats preview card component <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**Stats preview card component** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 

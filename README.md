@@ -6,11 +6,6 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
-### Screenshot
-
-![]()
-
-
 ### Links
 
 - Solution URL: [Repository](https://github.com/skyv26/stats-preview-component)

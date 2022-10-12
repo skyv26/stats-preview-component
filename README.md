@@ -103,13 +103,15 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
+```sh
+ yarn install
+```
+OR
 
 ```sh
- gem install rails
+ npm i
 ```
- -->
+
 
 ### Setup
 

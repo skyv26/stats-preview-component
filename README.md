@@ -121,18 +121,18 @@ Clone this repository to your desired folder:
   git clone git@github.com:skyv26/stats-preview-component.git
 ```
 
-### Install
+### Build
 
-Install this project with:
-
-<!--
-Example command:
+Build this project with:
 
 ```sh
-  cd my-project
-  gem install
+  yarn build
 ```
---->
+OR
+
+```sh
+  npm build
+```
 
 ### Usage
 

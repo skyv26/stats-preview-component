@@ -163,15 +163,8 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
+You can deploy this project using any online website deployment platform like gh-pages, vercel, netlify, railways.app or render.
 
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

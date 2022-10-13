@@ -20,10 +20,6 @@
 
 Learnt Styled-components with media-query using both string and styled object approach
 
-### Continued development
-
-ReactJS
-
 ## Author
 
 - Github - [Aakash Verma](https://github.com/skyv26/)

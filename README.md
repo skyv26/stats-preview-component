@@ -16,11 +16,6 @@
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
 
-### What I learned
-
-Learnt Styled-components with media-query using both string and styled object approach
-
-
 <a name="readme-top"></a>
 
 <!--

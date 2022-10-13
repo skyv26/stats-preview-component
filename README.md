@@ -20,11 +20,6 @@
 
 Learnt Styled-components with media-query using both string and styled object approach
 
-## Author
-
-- Github - [Aakash Verma](https://github.com/skyv26/)
-- Frontend Mentor - [@skyv26](https://www.frontendmentor.io/profile/skyv26)
-- Twitter - [@vrma_aakash](https://www.twitter.com/vrma_aakash)
 
 <a name="readme-top"></a>
 

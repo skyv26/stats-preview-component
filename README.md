@@ -33,15 +33,11 @@
 
 # 📖 Stats preview card component <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **Stats preview card component** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -55,8 +51,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **Styled Components**
 - **SC String Approach**
 - **SC Object Approach**
@@ -66,8 +60,6 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo](https://skystats.netlify.app/)
 
@@ -140,8 +132,6 @@ You can deploy this project using any online website deployment platform like gh
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Aakash Verma**
 
 - GitHub: [@skyv26](https://github.com/skyv26)
@@ -154,8 +144,6 @@ You can deploy this project using any online website deployment platform like gh
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **Make it dynamic**
 
@@ -175,8 +163,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project, please support me by giving a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -184,8 +170,6 @@ If you like this project, please support me by giving a star.
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank [Frontend Mentor](https://www.frontendmentor.io) 
 

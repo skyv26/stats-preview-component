@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-
+<div align="center">
   <img src="./src/assests/screenshot.png" alt="logo" width="140"  height="auto" />
   <br/>
 

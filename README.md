@@ -1,10 +1,3 @@
-
-
-### Links
-
-- Solution URL: [Repository](https://github.com/skyv26/stats-preview-component)
-- Live Site URL: [Netlify](https://skystats.netlify.app/)
-
 ## My process
 
 ### Built with

@@ -33,7 +33,7 @@
 
 # 📖 Stats preview card component <a name="about-project"></a>
 
-**Stats preview card component** is a...
+**Stats preview card component** is a professional, tech-focused React.js project from Frontend Mentor, leveraging Styled Components to create visually engaging data visualization and offering valuable insights for empowered decision-making as an employee.
 
 ## 🛠 Built With <a name="built-with"></a>
 

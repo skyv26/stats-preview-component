@@ -1,87 +1,184 @@
-# Frontend Mentor - Stats preview card component solution
+<a name="readme-top"></a>
+<div align="center">
+  <img src="./src/assests/screenshot.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+  <h3><b>Stats Preview Card Component</b></h3>
 
-## Table of contents
+</div>
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-- [Author](#author)
+<!-- TABLE OF CONTENTS -->
 
-## Overview
+# 📗 Table of Contents
 
-### The challenge
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-Users should be able to:
+<!-- PROJECT DESCRIPTION -->
 
-- View the optimal layout depending on their device's screen size
+# 📖 Stats preview card component <a name="about-project"></a>
 
-### Screenshot
+**Stats preview card component** is a professional, tech-focused React.js project from Frontend Mentor, leveraging Styled Components to create visually engaging data visualization and offering valuable insights for empowered decision-making as an employee.
 
-![](./src/assests/screenshot.png)
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://styled-components.com/">Styled Components</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **Styled Components**
+- **SC String Approach**
+- **SC Object Approach**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo](https://skystats.netlify.app/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+```sh
+ yarn install
+```
+OR
+
+```sh
+ npm i
+```
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  cd DESIRED_FOLDER_PATH
+  git clone git@github.com:skyv26/stats-preview-component.git
+```
+
+### Build
+
+Build this project with:
+
+```sh
+  yarn build
+```
+OR
+
+```sh
+  npm build
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+Example command:
+
+```sh
+  yarn start
+```
+OR 
+
+```sh
+  npm start
+```
+
+### Deployment
+
+You can deploy this project using any online website deployment platform like gh-pages, vercel, netlify, railways.app or render.
 
 
-### Links
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- Solution URL: [Repository](https://github.com/skyv26/stats-preview-component)
-- Live Site URL: [Netlify](https://skystats.netlify.app/)
+<!-- AUTHORS -->
 
+## 👥 Authors <a name="authors"></a>
 
-## Available Scripts
+👤 **Aakash Verma**
 
-In the project directory, you can run:
+- GitHub: [@skyv26](https://github.com/skyv26)
+- Twitter: [@vrma_aakash](https://twitter.com/vrma_aakash)
+- LinkedIn: [skyv2022](https://linkedin.com/in/skyv2022)
+- Frontend Mentor: [@skyv26](https://www.frontendmentor.io/profile/skyv26)
 
-### `yarn start`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- FUTURE FEATURES -->
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🔭 Future Features <a name="future-features"></a>
 
-### `yarn test`
+- [ ] **Make it dynamic**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### `yarn build`
+<!-- CONTRIBUTING -->
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🤝 Contributing <a name="contributing"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Contributions, issues, and feature requests are welcome!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Feel free to check the [issues page](../../issues/).
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## My process
+<!-- SUPPORT -->
 
-### Built with
+## ⭐️ Show your support <a name="support"></a>
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Styled Components](https://styled-components.com/) - For styles
+If you like this project, please support me by giving a star.
 
-### What I learned
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Learnt Styled-components with media-query using both string and styled object approach
+<!-- ACKNOWLEDGEMENTS -->
 
-### Continued development
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-ReactJS
+I would like to thank [Frontend Mentor](https://www.frontendmentor.io) 
 
-## Author
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- Github - [Aakash Verma](https://github.com/skyv26/)
-- Frontend Mentor - [@skyv26](https://www.frontendmentor.io/profile/skyv26)
-- Twitter - [@vrma_aakash](https://www.twitter.com/vrma_aakash)
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
